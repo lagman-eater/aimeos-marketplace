@@ -3,6 +3,9 @@
 /public/storage
 /public/vendor
 /storage/*.key
+/vendor
+.env
+.env.backup
 .phpunit.result.cache
 composer.lock
 Homestead.json
